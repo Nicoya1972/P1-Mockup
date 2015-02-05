@@ -1,0 +1,7 @@
+PLACES use for refernece to complete project
+
+http://www.w3schools.com/
+http://getbootstrap.com/css/
+http://stackoverflow.com/
+http://www.yourhtmlsource.com/
+http://ebookconversion.paulbrookes.net/css-paragraph-styles/
